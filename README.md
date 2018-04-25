@@ -1,4 +1,4 @@
-# btt2.297b
+# BetterTouchTool [btt2.297b]
 BetterTouchTool btt2.29b that supports LeapMotion (make sure not to update)
 
 https://github.com/fifafu/BetterTouchTool/issues/1510
